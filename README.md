@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Marelis272
+- 👀 I’m interested in coding cars and traveling
+- 🌱 I’m currently learning python and machine learning
+- 💞️ I’m looking to collaborate on anything and everything that helps me learn
+- 📫 How to reach me through here doubt anyone will need this
